@@ -171,6 +171,9 @@ button{
     border: rgb(34, 29, 29) solid 2px;
     padding: 10px;
 }
+#news p{
+    font-size: 15px;
+}
 
 #photoGallery{
     background-color: rgb(7,58,77);
